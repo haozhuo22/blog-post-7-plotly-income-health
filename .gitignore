@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+.quarto/
+index.html
+index_files/
+__pycache__/
+
